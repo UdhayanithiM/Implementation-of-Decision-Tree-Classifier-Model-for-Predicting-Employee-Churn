@@ -16,6 +16,11 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 6. Required module from sklearn.
 ## Program:
 ```
+/*
+Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
+Developed by: UDHAYANITHI M
+RegisterNumber: 212222220054 
+*/
 import pandas as pd 
 from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split 
